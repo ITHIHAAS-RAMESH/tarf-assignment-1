@@ -16,6 +16,8 @@ Captcha strategy:
 3. I then programmatically type the extracted captcha text into the captcha input field (#captchaInput) exactly as shown on the page.
 4. I then click the search button to proceed with the form submission.
 
+Video link : https://youtu.be/nVJrNjFuoa0
+
 Screenshots:
 
 <img width="1440" height="820" alt="Screenshot 2025-08-09 at 2 58 33 PM" src="https://github.com/user-attachments/assets/74cad51e-138b-4667-8a5f-3735e323006f" />
